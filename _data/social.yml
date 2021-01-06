@@ -1,6 +1,9 @@
-- title: Twitter
-  url: https://twitter.com/ngzhio
-  icon: fab fa-twitter
 - title: GitHub
-  url: https://github.com/ngzhio/jekyll-theme-hamilton
+  url: https://github.com/davidrobertquinn
   icon: fab fa-github
+- title: Instagram
+  url: https://www.instagram.com/_david_quinn
+  icon: fab fa-instagram
+- title: LinkedIn
+  url: https://www.linkediquitn.com/in/davidrobertquinn/
+  icon: fab fa-linkedin-in
